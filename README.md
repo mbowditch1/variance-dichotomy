@@ -2,6 +2,9 @@
 
 ---
 
+This repository contains the official implementation of the paper:
+[Variance Dichotomy in Feature Spaces of Facial Recognition Systems is a Weak Defense against Simple Weight Manipulation Attacks](https://openreview.net/pdf?id=Q1Cf07flwD)
+
 ## Installation
 
 Clone the repository and install dependencies:
